@@ -1,0 +1,183 @@
+﻿  Animation.cpp
+E:\OOP Project\BraveDave\BraveDave_SFML\Animation.cpp(29,20): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Animation.cpp(34,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Collider.cpp
+E:\OOP Project\BraveDave\BraveDave_SFML\Collider.cpp(24,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Collider.cpp(24,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  DynamicObject.cpp
+E:\OOP Project\BraveDave\BraveDave_SFML\DynamicObject.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+E:\OOP Project\BraveDave\BraveDave_SFML\DynamicObject.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+E:\OOP Project\BraveDave\BraveDave_SFML\DynamicObject.cpp(30,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GameObject.cpp
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(11,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(11,30): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(12,34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(12,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(25,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(25,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(30,33): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(30,30): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(35,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(35,28): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(59,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(59,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(59,35): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(59,32): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Gravity.cpp
+E:\OOP Project\BraveDave\BraveDave_SFML\Gravity.cpp(14,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Level.cpp
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(23,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(99,23): warning C4018: '<': signed/unsigned mismatch
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(232,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(310,49): warning C4101: 'e': unreferenced local variable
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(333,45): warning C4101: 'e': unreferenced local variable
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(390,28): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(398,28): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(407,33): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(415,28): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(424,28): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(433,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(442,40): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(451,39): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(478,52): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(481,41): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(482,39): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(557,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(619,22): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(620,22): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(662,52): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(665,41): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(666,39): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(730,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(796,22): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(797,22): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(837,41): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(838,39): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(854,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\OOP Project\BraveDave\BraveDave_SFML\Level.cpp(883,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Player.cpp
+E:\OOP Project\BraveDave\BraveDave_SFML\Player.cpp(78,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\OOP Project\BraveDave\BraveDave_SFML\Player.cpp(89,27): warning C4244: '=': conversion from 'T' to 'short', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+E:\OOP Project\BraveDave\BraveDave_SFML\Player.cpp(68): warning C4172: returning address of local variable or temporary
+E:\OOP Project\BraveDave\BraveDave_SFML\Player.cpp(58): warning C4172: returning address of local variable or temporary
+E:\OOP Project\BraveDave\BraveDave_SFML\Player.cpp(63): warning C4172: returning address of local variable or temporary
+E:\OOP Project\BraveDave\BraveDave_SFML\GameObject.cpp(97): warning C4172: returning address of local variable or temporary
+  BraveDave_SFML.vcxproj -> E:\OOP Project\BraveDave\x64\Debug\BraveDave_SFML.exe
